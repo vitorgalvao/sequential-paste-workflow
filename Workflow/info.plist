@@ -925,7 +925,7 @@ Copying from the most recent item restarts if the last paste is older than the t
 	<key>variablesdontexport</key>
 	<array/>
 	<key>version</key>
-	<string>2024.0</string>
+	<string>2024.1</string>
 	<key>webaddress</key>
 	<string>https://github.com/vitorgalvao/sequential-paste-workflow/</string>
 </dict>
